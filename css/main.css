@@ -347,7 +347,7 @@ ul.sub-menu {
 
 #footer {
   background: #F0F0E9;
-  margin-top:100px;
+  margin-top:20px;
 }
 
 
@@ -855,7 +855,6 @@ h2.title {
 
 .single-products {
   position: relative;
-  height:320px;
 }
 
 .new, .sale {
@@ -894,7 +893,7 @@ h2.title {
 }
 
 .product-overlay {
-  top:-5px;
+  top:0px;
   display: none;
   height: 0;
   position: absolute;
